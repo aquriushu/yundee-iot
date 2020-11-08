@@ -15,4 +15,4 @@ Add in dev branch under 2.
 
 Add new.
 
-
+Check stash function.
